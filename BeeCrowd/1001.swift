@@ -5,7 +5,8 @@
 //  Created by Lucas Barbosa de Oliveira on 01/01/23.
 //
 
-import Foundation
+//import Foundation
+//
 //
 //var a = Int(readLine()!)!
 //var b = Int(readLine()!)!
@@ -15,4 +16,5 @@ import Foundation
 //    return c
 //}
 //
-//print(soma(num1: a, num2: b))
+//
+//print("X = " + String(soma(num1: a, num2: b)))
